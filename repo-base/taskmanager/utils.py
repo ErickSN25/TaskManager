@@ -3,6 +3,7 @@
 def format_task(task):
     status = "[X]" if task["done"] else "[ ]"
     return f"{status} #{task['id']} - {task['title']} (Prioridade: {task['priority']})"
+    # Dev B: adicionei prioridade formatada na exibicao
 
 def filter_tasks(tasks, show_done=True):
     if show_done:
