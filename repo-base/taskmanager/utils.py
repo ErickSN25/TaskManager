@@ -10,3 +10,4 @@ def filter_tasks(tasks, show_done=True):
     return [t for t in tasks if not t["done"]]
     status = "✓" if task["done"] else "○"
     return f"{status} [{task['priority'].upper()}] #{task['id']} - {task['title']}"
+
