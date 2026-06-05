@@ -1,5 +1,8 @@
 # Zona de conflito intencional: ambos os devs modificarão format_task e filter_tasks
 
+#HotFix/Fix-Format: 
+# conserto rapido para a produção
+
 def format_task(task):
     status = "[ ]"
     return f"{status} [{task['priority']}] #{task['id']} - {task['title']}"
