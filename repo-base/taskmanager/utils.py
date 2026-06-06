@@ -4,7 +4,7 @@
 # conserto rapido para a produção
 
 def format_task(task):
-    status = "✓" if task["done"] else "○"
+    status = "✓" if task["done"] else "ppppppp"
     return f"{status} [{task['priority'].upper()}] #{task['id']} - {task['title']}"
 
 def filter_tasks(tasks, show_done=True):
