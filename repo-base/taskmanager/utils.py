@@ -2,9 +2,10 @@
 
 #HotFix/Fix-Format: 
 # conserto rapido para a produção
+#Segundo hotfix, conserto de format
 
 def format_task(task):
-    status = "✓" if task["done"] else "ppppppp"
+    status = "✓" if task["done"] else "o"
     status = "✓" if task["done"] else "○"
     return f"{status} [{task['priority'].upper()}] #{task['id']} - {task['title']}"
 
