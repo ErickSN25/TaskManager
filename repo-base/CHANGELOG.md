@@ -8,13 +8,13 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 
 ## [Unreleased]
 
-## [1.0.0] - 2026-06-04
+## [1.0] - 2026-06-04
 ### Added
 - v1.0 branch develop
 ### Changed
 ### Fixed
 
-## [1.1.0] - 2026-06-04
+## [1.1] - 2026-06-04
 ### Added
 - v1.1 branch feature/dev-a
 - v1.1 branch feature/dev-b
@@ -26,7 +26,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 ### Fixed
 - v1.1 standardize task formatting output
 
-## [1.2.0] - 2026-06-08
+## [1.2] - 2026-06-08
 ### Added
 - v1.2 branch release/1.0
 - v1.2 branch hotfix/fix-format
@@ -36,7 +36,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
 ### Fixed
 - v1.2 format_task
 
-## [1.3.0] - 2026-06-08
+## [1.3] - 2026-06-08
 ### Added
 ### Changed
 ### Fixed

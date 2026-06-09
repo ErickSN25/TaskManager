@@ -1,10 +1,10 @@
 # Post-Mortem — Missão de Release
 
 ## Time
-- Tech Lead:
-- Dev A:
-- Dev B:
-- QA/Release:
+- Tech Lead:Erick Soares
+- Dev A:Ana Kevylly
+- Dev B:Francisco Salesvanio
+- QA/Release:Francisco Salesvanio
 
 ---
 
