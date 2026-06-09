@@ -52,3 +52,5 @@ O rebase foi utilizado por Sales para trazer as atualizações da develop para s
 
 
 ## O que faríamos diferente
+
+No geral nada em específico, o resultado foi satisfatório no geral
