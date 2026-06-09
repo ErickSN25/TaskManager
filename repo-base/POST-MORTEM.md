@@ -60,4 +60,4 @@ O merge foi utilizado em duas situações cruciais:
 
 ## O que faríamos diferente
 
-No geral nada em específico, o resultado foi satisfatório no geral
+No geral nada em específico, o resultado foi satisfatório no geral, mas, Prestaríamos mais atenção às diretrizes e comunicações da equipe antes de realizar ações destrutivas ou definitivas no GitHub (como fechar um Pull Request ou aplicar um merge definitivo), garantindo que as mensagens de commit atendam aos critérios exigidos antes de consolidar a mesclagem. 
