@@ -43,7 +43,6 @@ Deste modo, criei o PR da nova branch (release/1.0) para a main (aprovado pelo T
 O que foi difícil doi o rebase, pois nunca tinha visto ou feito antes. Mas consegui reralizar a junção dos conflitos e garantir que ambos os lados do código estivessem em coexistentes. Antes de abrir o PR fiz o git rebase develop na minha feature (feature/dev-b) para poder atualizar a minha branch do que tinha de mais atual na develop. Resolvi os conflitos de forma manual, tentando garantir os dois lados do conflito (o que gerou confusão pois foi complicado),  mas consegui. A partir disso fiz o push da minha feature e criei um PR para a develop. (que foi analisado por Erick).
 
 --> Relato Dev A (Kev):
-
 O maior desafio foi compreender e lidar com o fluxo de integração e as regras de mensagens exigidas nas etapas finais. Após o merge do PR na branch principal via interface do GitHub, houve uma pequena confusão de comunicação sobre a necessidade de customizar a mensagem de commit do merge para incluir as palavras "merge" e "release". Como o PR já havia sido fechado e consolidado como "Merged", foi difícil tentar alterar o histórico retroativamente de forma remota, e também enfrentamos problemas temporários de conexão ("Connection was reset") no terminal ao tentar rodar comandos de sincronização (git pull) devido a conflitos de concorrência com o OneDrive local. Resolvemos registrando a documentação da release através dos comentários do próprio Pull Request para manter o histórico transparente sem corromper a árvore de commits.
 
 --> Relato QA (Sales):
