@@ -10,8 +10,6 @@
 
 ## O que funcionou bem
 
---> O que foi feito pelo Tech Lead (Erick), e que deu certo:
-
 
 --------------------
 
